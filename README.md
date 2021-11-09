@@ -5,9 +5,6 @@
 </p>
 
 ---
-
-### [**Vietnamese**](/.github/readme/vie.md)
-
 ## About PocketMine School
 
 PocketMine School is a website where you can learn about PocketMine-MP. PocketMine School is currently being maintained by [**TeamUltraSoft**](https://github.com/TeamUltraSoft) and [**KygekTeam**](https://github.com/KygekTeam).The Vietnamese version is currently maintained by [**PocketMine-MPVNGroup**](https://github.com/PocketMine-MP-VN-Group).
