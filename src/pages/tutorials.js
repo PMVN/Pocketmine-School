@@ -18,8 +18,8 @@ function Tutorials() {
 
     return (
         <Layout 
-            title={`Tutorials`}
-            description="A Website To Teach Everything About PocketMine-MP"
+            title={`Hướng Dẫn`}
+            description="Trang Web Hướng Dẫn Mọi Thứ Về PocketMine-MP"
         >
             <div className="section">
                 <div className="container">
@@ -31,8 +31,8 @@ function Tutorials() {
                         <div className="tutorial-grid">
                             <TutorialBox
                             link="htmap/introduction"
-                            title="How to Make a Plugin"
-                            des="Learn on how to make a pocketmine plugin." 
+                            title="Cách Tạo Một Plugin Cơ Bản"
+                            des="Học cách tạo một plugin PocketMine-MP cơ bản."
                             />
                             <TutorialBox
                             link="htufa/introduction"

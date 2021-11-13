@@ -87,7 +87,7 @@ function Home() {
                 <div className="col">
                     
                     <h1>Trang Web Hướng Dẫn Mọi Thứ Về PocketMine-MP</h1>
-                    <a href="tutorials/" className="btn">Hướng dẫn ></a>
+                    <a href="tutorials/" className="btn">Bắt đầu nào {'>'}</a>
                 </div>
                 <div className="col">
                     <img src="./img/vscode.png" className="vscodeimg" alt=""/>
@@ -118,8 +118,8 @@ function Home() {
                 <div className="tutorial-grid">
                     <TutorialBox
                     link="tutorials/htmap/introduction"
-                    title="How to Make a Plugin"
-                    des="Learn on how to make a pocketmine plugin." 
+                    title="Cách Tạo Một Plugin Cơ Bản"
+                    des="Học cách tạo một plugin PocketMine-MP cơ bản."
                     />
                     <TutorialBox
                     link="tutorials/htufa/introduction"

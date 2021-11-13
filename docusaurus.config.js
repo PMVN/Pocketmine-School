@@ -55,11 +55,6 @@ module.exports = {
         {to: 'tutorials/', label: 'Hướng dẫn', position: 'right'},
         {href: 'https://github.com/PocketMine-MP-VN-Group/Pocketmine-School', label: 'Mã nguồn', position: 'right'},
         {
-          type: 'docsVersionDropdown',
-          position: 'right',
-          dropdownActiveClassDisabled: false,
-        },
-        {
           type: 'dropdown',
           label: 'Ngôn ngữ',
           items: [
@@ -140,19 +135,7 @@ module.exports = {
           editUrl: 'https://github.com/PocketMine-MP-VN-School/Pocketmine-School/tree/master',
           showLastUpdateAuthor: false,
           showLastUpdateTime: true,
-          sidebarCollapsible: false,
-          lastVersion: "current",
-          versions: {
-            current: {
-                label: "PM3",
-                path: ""
-            },
-            PM4: {
-                label: "PM4",
-                path: "PM4",
-                banner: "unreleased"
-            }
-          },
+          sidebarCollapsible: false
         },
         blog: {
           showReadingTime: true,
