@@ -16,7 +16,7 @@ Plugin là một mô-đun bên ngoài có thể được thêm vào máy chủ c
 
 - Cấu trúc của một plugin
 - Kê khai `plugin.yml`
-- Giới thiệu API
+- Giới thiệu về API
 - Class Main cơ bản
 - Thêm lệnh và quyền hạn
 - Xử lý sự kiện
@@ -27,18 +27,19 @@ Plugin là một mô-đun bên ngoài có thể được thêm vào máy chủ c
 
 Trang hướng dẫn này yêu cầu bạn cần có nhưng điều sau:
 
-1. **Bạn phải có kiến thức về ngôn ngữ PHP (đặc biệt là Lập Trình Hướng Đối Tượng).**
-2. Bạn cần có một máy chủ PocketMine-MP hoạt động được và vào được.
-3. Bạn cần có plugin DevTools được cài vào máy chủ của bạn.
-3. You should have the DevTools plugin installed in your server.
+1. Bạn phải có kiến thức về máy tính và điều máy chủ PocketMine-MP.
+2. **Bạn phải có kiến thức về ngôn ngữ PHP (đặc biệt là Lập Trình Hướng Đối Tượng).**
+3. Bạn cần có một máy chủ PocketMine-MP hoạt động được và vào được.
+4. Bạn cần có plugin DevTools được cài vào máy chủ của bạn.
+5. You should have the DevTools plugin installed in your server.
    - Nếu bạn không có, bạn có thể tải DevTools qua [Poggit](https://poggit.pmmp.io/p/DevTools).
 
-Chúng tôi đang hướng đến người dùng máy tính, nhưng người dùng điện thoại vẫn có thể tham khảo.
+Nếu bạn là người dùng từ phiên bản API 3, chúng tôi sẽ giúp đỡ bạn làm quen với phiên bản API 4.
+
+Tuy chúng tôi đang hướng đến người dùng máy tính, nhưng người dùng điện thoại vẫn có thể tham khảo.
 
 Nhấn nút "Next" để bắt đầu bài học một khi bạn đã sẵn sàng!
 
-Click the "Next" button to start learning when you're ready!
-
 ___
-Thanks to [Sites4Code](https://sites4code.github.io/MCPE/) for making there website first, some of the stuff written here is from them.
+Cảm ơn vì các bài viết mẫu được viết bởi [PocketMine-School](https://github.com/PocketMine-School). Tất cả sẽ được dịch sang tiếng Việt và thêm một vài chỉ dẫn nữa của chúng tôi.
 ___
