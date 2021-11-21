@@ -78,7 +78,7 @@ module.exports = {
           title: 'Hướng dẫn',
           items: [
             {
-              label: 'How to Make a Plugin',
+              label: 'Cách Tạo Một Plugin Cơ Bản',
               to: 'tutorials/htmap/introduction',
             },
             {
